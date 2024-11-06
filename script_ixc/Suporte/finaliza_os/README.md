@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # README.md Fecha O.S
 
+=======
+# README.md
+>>>>>>> 9603905783f019d5225aa23c5b4fb698eeb04ff4
 
 ## Descrição
 
