@@ -1,5 +1,6 @@
 # README.md Fecha O.S
 
+
 ## Descrição
 
 Este script em Python automatiza o fechamento de chamados via API. Ele lê um arquivo Excel contendo os IDs dos chamados a serem fechados e, para cada ID, envia uma requisição à API correspondente para fechar o chamado no sistema.
